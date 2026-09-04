@@ -346,3 +346,12 @@ with col_sem1:
 with col_sem2:
     df['Rocnik_Semestr'] = df['Muj_Plan_Rocnik'].astype(str) + ". roč - " + df['Semestr']
     st.bar_chart(df.groupby('Rocnik_Semestr')['Kredity'].sum())
+csv_data = df.to_csv(index=False).encode('utf-8')
+
+st.sidebar.download_button(
+    label="📥 Stáhnout aktuální plán (CSV)",
+    data=csv_data,
+    file_name="studium_data.csv",
+    mime="text/csv",
+    help="Stáhne aktuální verzi souboru se všemi úpravami"
+)
