@@ -1,66 +1,66 @@
-Kod,Nazev,Kredity,Typ,Semestr,STAG_Rocnik,Muj_Plan_Rocnik,Stav,Znamka,Profesor,Statnice,Prerekvizita
-KI/KAPR1,Algoritmizace a programování I,4,A,ZS,1,1,Splněno,S,Škvor,Ano,-
-KI/KMPG,Multimédia a základy počítačové grafiky,2,A,ZS,1,1,Splněno,S,Pecina,Ne,-
-KI/KPCA,Architektura počítačů,4,A,ZS,1,1,Splněno,1,Škvor,Ano,-
-KMA/KCA1,Matematická analýza I,6,A,ZS,1,2,Nesplněno,N,Eisenmann,Ano,-
-KMA/KLAG,Lineární algebra,5,A,ZS,1,2,Nesplněno,N,Kuřil,Ano,-
-KMA/KMT1,Matematika I,4,A,ZS,1,1,Splněno,S,Lacková,Ne,-
-KMA/KZAM,Základy matematiky,5,A,ZS,1,2,Nesplněno,N,Eisenmann,Ano,-
-KMA/MEX,Matematický exkurz,1,B,ZS,1,2,Nezačato,-,Katedra KMA,Ne,-
-KFHS/KB305,Úvod do filozofie,2,A,LS,1,1,Splněno,S,Anderle,Ne,-
-KI/KAPR2,Algoritmizace a programování II,5,A,LS,1,1,Zapsáno,S,Škvor,Ano,KI/KAPR1
-KI/KMSW,Matematický software,2,A,LS,1,1,Splněno,S,Simonyi,Ne,-
-KI/KZZD,Základy zpracování dat,2,A,LS,1,1,Zapsáno,N,Škvor,Ne,-
-KMA/KAGE,Aplikovaná geometrie,5,A,LS,1,2,Nezačato,-,Katedra KMA,Ano,-
-KMA/KCA2,Matematická analýza II,5,A,LS,1,2,Nezačato,-,Eisenmann,Ano,KMA/KCA1
-KMA/KKGR,Kombinatorika a grafy,4,A,LS,1,1,Zapsáno,N,Krupka,Ano,-
-KMA/KMT2,Matematika II,5,A,LS,1,1,Splněno,1,Lacková,Ne,-
-KMA/KOPM,Odborné prezentace v matematice,1,A,LS,1,1,Splněno,S,Lacková,Ne,-
-KMA/KAAP,Algebra s aplikacemi,4,B,LS,1,1,Splněno,3,Eisenmann,Ano,-
-KMA/KLTX,Úvod do Latexu,2,B,LS,1,1,Splněno,S,Krupka,Ne,-
-CJP/7210,Cizí jazyk I,2,A,ZS,2,2,Nezačato,-,Katedra CJP,Ne,-
-CPPV/KPPOB,Příprava na pedagogickou praxi a oborové objevování,1,A,ZS,2,2,Nezačato,-,Katedra PP,Ne,-
-KI/KIKT1,Informační a komunikační technologie I,1,A,ZS,2,2,Nezačato,-,Pecina,Ne,-
-KI/KIKT2,Informační a komunikační technologie II,1,A,ZS,2,2,Nezačato,-,Pecina,Ne,-
-KI/KNUM,Numerické metody,2,A,ZS,2,3,Nezačato,-,Katedra INF,Ne,-
-KI/KTZI1,Teoretické základy informatiky I,4,A,ZS,2,3,Nezačato,-,Škvor,Ano,-
-KI/KZEL,Základy elektroniky,4,A,ZS,2,2,Nezačato,-,Katedra INF,Ne,-
-KMA/KGE1,Geometrie I,4,A,ZS,2,3,Nezačato,-,Eisenmann,Ano,KMA/KLAG
-KMA/KPST,Pravděpodobnost a statistika,5,A,ZS,2,3,Nezačato,-,Lacková,Ano,-
-KMA/KUSW,Úvod do softwaru pro matematiky,2,A,ZS,2,3,Nezačato,-,Katedra KMA,Ne,-
-KPAD/7230,Pedagogika I,2,A,ZS,2,2,Nezačato,-,Katedra PAD,Ne,-
-KPS/7230,Psychologie I,4,A,ZS,2,2,Nezačato,-,Katedra PS,Ne,-
-CPPV/KKPP,Souvislá pedagogická praxe,1,A,LS,2,2,Nezačato,-,Katedra PP,Ne,-
-KI/KOPS,Operační systémy,2,A,LS,2,2,Nezačato,-,Škvor,Ano,KI/KPCA
-KI/KROB,Robotika ve výuce,2,A,LS,2,2,Nezačato,-,Pecina,Ne,-
-KI/KTZI2,Teoretické základy informatiky II,3,A,LS,2,3,Nezačato,-,Škvor,Ano,KI/KTZI1
-KI/KURDB,Úvod do databází,3,A,LS,2,3,Nezačato,-,Škvor,Ano,-
-KI/KZKB,Základy kybernetické bezpečnosti,3,A,LS,2,2,Nezačato,-,Katedra INF,Ne,-
-KMA/KALG,Algebra,5,A,LS,2,3,Nezačato,-,Kuřil,Ano,KMA/KLAG
-KMA/KMA3,Matematická analýza III,5,A,LS,2,3,Nezačato,-,Eisenmann,Ano,KMA/KCA2
-KMA/KMRU,Matematické rovnice a jejich užití,2,A,LS,2,2,Nezačato,-,Katedra KMA,Ne,-
-KMA/KPSPP,Psychologie pro pedagogy,1,A,LS,2,2,Nezačato,-,Katedra PP,Ne,-
-KPAD/7240,Pedagogika II,4,A,LS,2,2,Nezačato,-,Katedra PAD,Ne,-
-KMA/KCAS,Časové řady a statistický software,2,B,LS,2,2,Nezačato,-,Lacková,Ne,-
-CPPV/KAPP,Asistenční pedagogická praxe,2,A,ZS,3,3,Nezačato,-,Katedra PP,Ne,-
-KI/KAIIT,Aplikovaná informatika a technologie,2,A,ZS,3,3,Nezačato,-,Katedra INF,Ne,-
-KI/KANE,Počítačové sítě,2,A,ZS,3,3,Nezačato,-,Škvor,Ano,-
-KI/KDPG,Didaktika programování,2,A,ZS,3,3,Nezačato,-,Pecina,Ne,KI/KAPR2
-KI/KRDBS,Relační databázové systémy,4,A,ZS,3,4,Nezačato,-,Škvor,Ano,KI/KURDB
-KI/KZPS,Zpracování signálů a obrazu,4,A,ZS,3,4,Nezačato,-,Katedra INF,Ne,-
-KMA/KGE2,Geometrie II,6,A,ZS,3,4,Nezačato,-,Eisenmann,Ano,KMA/KGE1
-KMA/KSBP,Seminář k bakalářské práci,2,A,ZS,3,3,Nezačato,-,Katedra KMA,Ne,-
-KMA/KTAR,Teorie čísel a aritmetika,5,A,ZS,3,4,Nezačato,-,Kuřil,Ano,KMA/KZAM
-KMA/KUDM,Úvod do diskrétní matematiky,3,A,ZS,3,3,Nezačato,-,Krupka,Ne,-
-KI/KAIE,Informační etika,1,A,LS,3,3,Nezačato,-,Katedra INF,Ne,-
-KI/KAOS,Pokročilé operační systémy,2,A,LS,3,3,Nezačato,-,Škvor,Ne,KI/KOPS
-KI/KITP,Informační technologie v praxi,4,A,LS,3,3,Nezačato,-,Pecina,Ne,-
-KI/KPGR,Počítačová grafika,3,A,LS,3,3,Nezačato,-,Pecina,Ne,-
-KI/SZZIV,Státní závěrečná zkouška - Informatika,0,A,LS,3,4,Nezačato,-,Komise,Ano,-
-KMA/BP2O,Bakalářská práce,6,A,LS,3,4,Nezačato,-,Katedra KMA,Ne,-
-KMA/KAMU,Aplikace matematiky v umění,2,A,LS,3,3,Nezačato,-,Katedra KMA,Ne,-
-KMA/KMSB,Matematické simulace a modelování,2,A,LS,3,3,Nezačato,-,Katedra KMA,Ne,-
-KMA/KRSPP,Reflexe pedagogické praxe,1,A,LS,3,3,Nezačato,-,Katedra PP,Ne,-
-KMA/SZZMV,Státní závěrečná zkouška - Matematika,0,A,LS,3,4,Nezačato,-,Komise,Ano,-
-KMA/KTHE,Teorie grafů a heuristiky,5,B,LS,3,3,Nezačato,-,Krupka,Ne,-
-KMA/SZZO,Státní závěrečná zkouška - Společný základ,0,A,X,4,4,Nezačato,-,Komise,Ano,-
+Kod,Nazev,Kredity,Typ,Semestr,STAG_Rocnik,Muj_Plan_Rocnik,Stav,Znamka,Profesor,Statnice,Prerekvizita,Rocnik_Semestr
+KI/KAPR1,Algoritmizace a programování I,4,A,ZS,1,1,Splněno,S,Škvor,Ano,-,1. roč - ZS
+KI/KMPG,Multimédia a základy počítačové grafiky,2,A,ZS,1,1,Splněno,S,Pecina,Ne,-,1. roč - ZS
+KI/KPCA,Architektura počítačů,4,A,ZS,1,1,Splněno,1,Škvor,Ano,-,1. roč - ZS
+KMA/KCA1,Matematická analýza I,6,A,ZS,1,2,Nesplněno,N,Eisenmann,Ano,-,2. roč - ZS
+KMA/KLAG,Lineární algebra,5,A,ZS,1,2,Nesplněno,N,Kuřil,Ano,-,2. roč - ZS
+KMA/KMT1,Matematika I,4,A,ZS,1,1,Splněno,S,Lacková,Ne,-,1. roč - ZS
+KMA/KZAM,Základy matematiky,5,A,ZS,1,2,Nesplněno,N,Eisenmann,Ano,-,2. roč - ZS
+KMA/MEX,Matematický exkurz,1,B,ZS,1,3,Nezačato,-,Katedra KMA,Ne,-,3. roč - ZS
+KFHS/KB305,Úvod do filozofie,2,A,LS,1,1,Splněno,S,Anderle,Ne,-,1. roč - LS
+KI/KAPR2,Algoritmizace a programování II,5,A,LS,1,1,Splněno,S,Škvor,Ano,KI/KAPR1,1. roč - LS
+KI/KMSW,Matematický software,2,A,LS,1,1,Splněno,S,Simonyi,Ne,-,1. roč - LS
+KI/KZZD,Základy zpracování dat,2,A,LS,1,1,Splněno,N,Škvor,Ne,-,1. roč - LS
+KMA/KAGE,Aplikovaná geometrie,5,A,LS,1,2,Nezačato,-,Katedra KMA,Ano,-,2. roč - LS
+KMA/KCA2,Matematická analýza II,5,A,LS,1,2,Nezačato,-,Eisenmann,Ano,KMA/KCA1,2. roč - LS
+KMA/KKGR,Kombinatorika a grafy,4,A,LS,1,2,Nesplněno,N,Krupka,Ano,-,2. roč - LS
+KMA/KMT2,Matematika II,5,A,LS,1,1,Splněno,1,Lacková,Ne,-,1. roč - LS
+KMA/KOPM,Odborné prezentace v matematice,1,A,LS,1,1,Splněno,S,Lacková,Ne,-,1. roč - LS
+KMA/KAAP,Algebra s aplikacemi,4,B,LS,1,1,Splněno,3,Eisenmann,Ano,-,1. roč - LS
+KMA/KLTX,Úvod do Latexu,2,B,LS,1,1,Splněno,S,Krupka,Ne,-,1. roč - LS
+CJP/7210,Cizí jazyk I,2,A,ZS,2,2,Nezačato,-,Katedra CJP,Ne,-,2. roč - ZS
+CPPV/KPPOB,Příprava na pedagogickou praxi a oborové objevování,1,A,ZS,2,2,Nezačato,-,Katedra PP,Ne,-,2. roč - ZS
+KI/KIKT1,Informační a komunikační technologie I,1,A,ZS,2,2,Nezačato,-,Pecina,Ne,-,2. roč - ZS
+KI/KIKT2,Informační a komunikační technologie II,1,A,ZS,2,2,Nezačato,-,Pecina,Ne,-,2. roč - ZS
+KI/KNUM,Numerické metody,2,A,ZS,2,2,Nezačato,-,Katedra INF,Ne,-,2. roč - ZS
+KI/KTZI1,Teoretické základy informatiky I,4,A,ZS,2,2,Nezačato,-,Škvor,Ano,-,2. roč - ZS
+KI/KZEL,Základy elektroniky,4,A,ZS,2,2,Nezačato,-,Katedra INF,Ne,-,2. roč - ZS
+KMA/KGE1,Geometrie I,4,A,ZS,2,3,Nezačato,-,Eisenmann,Ano,KMA/KLAG,3. roč - ZS
+KMA/KPST,Pravděpodobnost a statistika,5,A,ZS,2,3,Nezačato,-,Lacková,Ano,-,3. roč - ZS
+KMA/KUSW,Úvod do softwaru pro matematiky,2,A,ZS,2,3,Nezačato,-,Katedra KMA,Ne,-,3. roč - ZS
+KPAD/7230,Pedagogika I,2,A,ZS,2,2,Nezačato,-,Katedra PAD,Ne,-,2. roč - ZS
+KPS/7230,Psychologie I,4,A,ZS,2,2,Nezačato,-,Katedra PS,Ne,-,2. roč - ZS
+CPPV/KKPP,Souvislá pedagogická praxe,1,A,LS,2,2,Nezačato,-,Katedra PP,Ne,-,2. roč - LS
+KI/KOPS,Operační systémy,2,A,LS,2,2,Nezačato,-,Škvor,Ano,KI/KPCA,2. roč - LS
+KI/KROB,Robotika ve výuce,2,A,LS,2,2,Nezačato,-,Pecina,Ne,-,2. roč - LS
+KI/KTZI2,Teoretické základy informatiky II,3,A,LS,2,2,Nezačato,-,Škvor,Ano,KI/KTZI1,2. roč - LS
+KI/KURDB,Úvod do databází,3,A,LS,2,3,Nezačato,-,Škvor,Ano,-,3. roč - LS
+KI/KZKB,Základy kybernetické bezpečnosti,3,A,LS,2,2,Nezačato,-,Katedra INF,Ne,-,2. roč - LS
+KMA/KALG,Algebra,5,A,LS,2,3,Nezačato,-,Kuřil,Ano,KMA/KLAG,3. roč - LS
+KMA/KMA3,Matematická analýza III,5,A,LS,2,3,Nezačato,-,Eisenmann,Ano,KMA/KCA2,3. roč - LS
+KMA/KMRU,Matematické rovnice a jejich užití,2,A,LS,2,3,Nezačato,-,Katedra KMA,Ne,-,3. roč - LS
+KMA/KPSPP,Psychologie pro pedagogy,1,A,LS,2,2,Nezačato,-,Katedra PP,Ne,-,2. roč - LS
+KPAD/7240,Pedagogika II,4,A,LS,2,2,Nezačato,-,Katedra PAD,Ne,-,2. roč - LS
+KMA/KCAS,Časové řady a statistický software,2,B,LS,2,3,Nezačato,-,Lacková,Ne,-,3. roč - LS
+CPPV/KAPP,Asistenční pedagogická praxe,2,A,ZS,3,3,Nezačato,-,Katedra PP,Ne,-,3. roč - ZS
+KI/KAIIT,Aplikovaná informatika a technologie,2,A,ZS,3,3,Nezačato,-,Katedra INF,Ne,-,3. roč - ZS
+KI/KANE,Počítačové sítě,2,A,ZS,3,3,Nezačato,-,Škvor,Ano,-,3. roč - ZS
+KI/KDPG,Didaktika programování,2,A,ZS,3,3,Nezačato,-,Pecina,Ne,KI/KAPR2,3. roč - ZS
+KI/KRDBS,Relační databázové systémy,4,A,ZS,3,4,Nezačato,-,Škvor,Ano,KI/KURDB,4. roč - ZS
+KI/KZPS,Zpracování signálů a obrazu,4,A,ZS,3,4,Nezačato,-,Katedra INF,Ne,-,4. roč - ZS
+KMA/KGE2,Geometrie II,6,A,ZS,3,4,Nezačato,-,Eisenmann,Ano,KMA/KGE1,4. roč - ZS
+KMA/KSBP,Seminář k bakalářské práci,2,A,ZS,3,3,Nezačato,-,Katedra KMA,Ne,-,3. roč - ZS
+KMA/KTAR,Teorie čísel a aritmetika,5,A,ZS,3,4,Nezačato,-,Kuřil,Ano,KMA/KZAM,4. roč - ZS
+KMA/KUDM,Úvod do diskrétní matematiky,3,A,ZS,3,3,Nezačato,-,Krupka,Ne,-,3. roč - ZS
+KI/KAIE,Informační etika,1,A,LS,3,3,Nezačato,-,Katedra INF,Ne,-,3. roč - LS
+KI/KAOS,Pokročilé operační systémy,2,A,LS,3,3,Nezačato,-,Škvor,Ne,KI/KOPS,3. roč - LS
+KI/KITP,Informační technologie v praxi,4,A,LS,3,3,Nezačato,-,Pecina,Ne,-,3. roč - LS
+KI/KPGR,Počítačová grafika,3,A,LS,3,3,Nezačato,-,Pecina,Ne,-,3. roč - LS
+KI/SZZIV,Státní závěrečná zkouška - Informatika,0,A,LS,3,3,Nezačato,-,Komise,Ano,-,3. roč - LS
+KMA/BP2O,Bakalářská práce,6,A,LS,3,4,Nezačato,-,Katedra KMA,Ne,-,4. roč - LS
+KMA/KAMU,Aplikace matematiky v umění,2,A,LS,3,3,Nezačato,-,Katedra KMA,Ne,-,3. roč - LS
+KMA/KMSB,Matematické simulace a modelování,2,A,LS,3,3,Nezačato,-,Katedra KMA,Ne,-,3. roč - LS
+KMA/KRSPP,Reflexe pedagogické praxe,1,A,LS,3,2,Nezačato,-,Katedra PP,Ne,-,2. roč - LS
+KMA/SZZMV,Státní závěrečná zkouška - Matematika,0,A,LS,3,4,Nezačato,-,Komise,Ano,-,4. roč - LS
+KMA/KTHE,Teorie grafů a heuristiky,5,B,LS,3,3,Nezačato,-,Krupka,Ne,-,3. roč - LS
+KMA/SZZO,Státní závěrečná zkouška - Společný základ,0,A,X,4,4,Nezačato,-,Komise,Ano,-,4. roč - X
