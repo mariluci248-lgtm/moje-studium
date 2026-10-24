@@ -2,10 +2,10 @@ Kod,Nazev,Kredity,Typ,Semestr,STAG_Rocnik,Muj_Plan_Rocnik,Stav,Znamka,Profesor,S
 KI/KAPR1,Algoritmizace a programování I,4,A,ZS,1,1,Splněno,S,Škvor,Ano,-,1. roč - ZS
 KI/KMPG,Multimédia a základy počítačové grafiky,2,A,ZS,1,1,Splněno,S,Pecina,Ne,-,1. roč - ZS
 KI/KPCA,Architektura počítačů,4,A,ZS,1,1,Splněno,1,Škvor,Ano,-,1. roč - ZS
-KMA/KCA1,Matematická analýza I,6,A,ZS,1,2,Nesplněno,N,Eisenmann,Ano,-,2. roč - ZS
-KMA/KLAG,Lineární algebra,5,A,ZS,1,2,Nesplněno,N,Kuřil,Ano,-,2. roč - ZS
+KMA/KCA1,Matematická analýza I,6,A,ZS,1,2,Zapsáno,N,Eisenmann,Ano,-,2. roč - ZS
+KMA/KLAG,Lineární algebra,5,A,ZS,1,2,Zapsáno,N,Kuřil,Ano,-,2. roč - ZS
 KMA/KMT1,Matematika I,4,A,ZS,1,1,Splněno,S,Lacková,Ne,-,1. roč - ZS
-KMA/KZAM,Základy matematiky,5,A,ZS,1,2,Nesplněno,N,Eisenmann,Ano,-,2. roč - ZS
+KMA/KZAM,Základy matematiky,5,A,ZS,1,2,Zapsáno,N,Eisenmann,Ano,-,2. roč - ZS
 KMA/MEX,Matematický exkurz,1,B,ZS,1,3,Nezačato,-,Katedra KMA,Ne,-,3. roč - ZS
 KFHS/KB305,Úvod do filozofie,2,A,LS,1,1,Splněno,S,Anderle,Ne,-,1. roč - LS
 KI/KAPR2,Algoritmizace a programování II,5,A,LS,1,1,Splněno,S,Škvor,Ano,KI/KAPR1,1. roč - LS
@@ -18,18 +18,18 @@ KMA/KMT2,Matematika II,5,A,LS,1,1,Splněno,1,Lacková,Ne,-,1. roč - LS
 KMA/KOPM,Odborné prezentace v matematice,1,A,LS,1,1,Splněno,S,Lacková,Ne,-,1. roč - LS
 KMA/KAAP,Algebra s aplikacemi,4,B,LS,1,1,Splněno,3,Eisenmann,Ano,-,1. roč - LS
 KMA/KLTX,Úvod do Latexu,2,B,LS,1,1,Splněno,S,Krupka,Ne,-,1. roč - LS
-CJP/7210,Cizí jazyk I,2,A,ZS,2,2,Nezačato,-,Katedra CJP,Ne,-,2. roč - ZS
-CPPV/KPPOB,Příprava na pedagogickou praxi a oborové objevování,1,A,ZS,2,2,Nezačato,-,Katedra PP,Ne,-,2. roč - ZS
-KI/KIKT1,Informační a komunikační technologie I,1,A,ZS,2,2,Nezačato,-,Pecina,Ne,-,2. roč - ZS
-KI/KIKT2,Informační a komunikační technologie II,1,A,ZS,2,2,Nezačato,-,Pecina,Ne,-,2. roč - ZS
-KI/KNUM,Numerické metody,2,A,ZS,2,2,Nezačato,-,Katedra INF,Ne,-,2. roč - ZS
-KI/KTZI1,Teoretické základy informatiky I,4,A,ZS,2,2,Nezačato,-,Škvor,Ano,-,2. roč - ZS
-KI/KZEL,Základy elektroniky,4,A,ZS,2,2,Nezačato,-,Katedra INF,Ne,-,2. roč - ZS
+CJP/7210,Cizí jazyk I,2,A,ZS,2,2,Zapsáno,-,Katedra CJP,Ne,-,2. roč - ZS
+CPPV/KPPOB,Příprava na pedagogickou praxi a oborové objevování,1,A,ZS,2,2,Zapsáno,-,Katedra PP,Ne,-,2. roč - ZS
+KI/KIKT1,Informační a komunikační technologie I,1,A,ZS,2,2,Zapsáno,-,Pecina,Ne,-,2. roč - ZS
+KI/KIKT2,Informační a komunikační technologie II,1,A,ZS,2,2,Zapsáno,-,Pecina,Ne,-,2. roč - ZS
+KI/KNUM,Numerické metody,2,A,ZS,2,2,Zapsáno,-,Katedra INF,Ne,-,2. roč - ZS
+KI/KTZI1,Teoretické základy informatiky I,4,A,ZS,2,2,Zapsáno,-,Škvor,Ano,-,2. roč - ZS
+KI/KZEL,Základy elektroniky,4,A,ZS,2,2,Zapsáno,-,Katedra INF,Ne,-,2. roč - ZS
 KMA/KGE1,Geometrie I,4,A,ZS,2,3,Nezačato,-,Eisenmann,Ano,KMA/KLAG,3. roč - ZS
 KMA/KPST,Pravděpodobnost a statistika,5,A,ZS,2,3,Nezačato,-,Lacková,Ano,-,3. roč - ZS
-KMA/KUSW,Úvod do softwaru pro matematiky,2,A,ZS,2,3,Nezačato,-,Katedra KMA,Ne,-,3. roč - ZS
-KPAD/7230,Pedagogika I,2,A,ZS,2,2,Nezačato,-,Katedra PAD,Ne,-,2. roč - ZS
-KPS/7230,Psychologie I,4,A,ZS,2,2,Nezačato,-,Katedra PS,Ne,-,2. roč - ZS
+KMA/KUSW,Úvod do softwaru pro matematiky,2,A,ZS,2,2,Zapsáno,-,Katedra KMA,Ne,-,2. roč - ZS
+KPAD/7230,Pedagogika I,2,A,ZS,2,2,Zapsáno,-,Katedra PAD,Ne,-,2. roč - ZS
+KPS/7230,Psychologie I,4,A,ZS,2,2,Zapsáno,-,Katedra PS,Ne,-,2. roč - ZS
 CPPV/KKPP,Souvislá pedagogická praxe,1,A,LS,2,2,Nezačato,-,Katedra PP,Ne,-,2. roč - LS
 KI/KOPS,Operační systémy,2,A,LS,2,2,Nezačato,-,Škvor,Ano,KI/KPCA,2. roč - LS
 KI/KROB,Robotika ve výuce,2,A,LS,2,2,Nezačato,-,Pecina,Ne,-,2. roč - LS
